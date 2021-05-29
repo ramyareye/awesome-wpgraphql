@@ -14,7 +14,7 @@ WPGraphQL is a free, open-source WordPress plugin that provides an extendable Gr
 - [Frontend](#frontend)
 - [Services](#services)
 - [Examples](#example)
-- [Channels](#channels)
+- [Youtube](#youtube)
 - [Videos](#videos)
 - [Blogs](#blogs)
 - [Posts](#posts)
@@ -81,9 +81,9 @@ WPGraphQL is a free, open-source WordPress plugin that provides an extendable Gr
 
 <a name="example-js" />
 
-<a name="channels" />
+<a name="youtube" />
 
-## Channels
+## Youtube
 * [WPGraphQL](https://www.youtube.com/channel/UCwav5UKLaEufn0mtvaFAkYw)
 
 <a name="videos" />
