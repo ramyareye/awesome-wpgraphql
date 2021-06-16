@@ -32,7 +32,7 @@ WPGraphQL is a free, open-source WordPress plugin that provides an extendable Gr
 * [Github Repo](https://github.com/wp-graphql/wp-graphql)
 * [Twitter](https://twitter.com/wpgraphql)
 * [Slack](https://join.slack.com/t/wp-graphql/shared_invite/zt-3vloo60z-PpJV2PFIwEathWDOxCTTLA)
-
+* [How To Contribute](https://www.wpgraphql.com/docs/contributing/)
 
 <a name="tutorials" />
 
