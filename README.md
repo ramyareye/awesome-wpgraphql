@@ -10,6 +10,7 @@ WPGraphQL is a free, open-source WordPress plugin that provides an extendable Gr
 
 - [Specification](#spec)
 - [Tutorials](#tutorials)
+- [Local Development](#local)
 - [Plugins](#plugins)
 - [Frontend](#frontend)
 - [Services](#services)
@@ -38,6 +39,18 @@ WPGraphQL is a free, open-source WordPress plugin that provides an extendable Gr
 ## Tutorials
 
 * [Quick Start](https://www.wpgraphql.com/docs/quick-start/) - Get started using WPGraphQL in 5-minutes
+
+<a name="local" />
+
+## Local Development
+
+* [LocalWP](https://localwp.com/) - A fuss-free way to develop WordPress locally
+* [WP-CLI](https://wp-cli.org/) - command-line interface for WordPress
+* [Lando](https://docs.lando.dev/config/wordpress.html#getting-started) - configurable recipe for developing WordPress apps
+* [MAMP](https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP) - Installing WordPress Locally on Your Mac With MAMP
+* [XAMPP](https://themeisle.com/blog/install-xampp-and-wordpress-locally/) - How to Install XAMPP and WordPress Locally on Windows PC
+* [Valet](https://wpbeaches.com/setting-up-valet-on-macos-for-local-wordpress-development/) - Set Up Valet on macOS for Local WordPress Development
+
 
 <a name="plugins" />
 
